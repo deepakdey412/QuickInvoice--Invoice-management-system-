@@ -5,8 +5,6 @@ const Menubar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
       <div className="container py-2">
-
-        {/* 🔵 Brand Logo & Title */}
         <Link
           className="navbar-brand d-flex align-items-center text-decoration-none"
           to="/"

@@ -18,7 +18,6 @@ const Menubar = () => {
           </span>
         </Link>
 
-        {/* 📱 Mobile Toggle Button */}
         <button
           className="navbar-toggler"
           type="button"
@@ -31,7 +30,6 @@ const Menubar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        {/* 🔽 Navbar Items */}
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto align-items-center">
 
